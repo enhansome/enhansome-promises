@@ -19,7 +19,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184652
+            "stars": 184656
           }
         },
         {
@@ -395,7 +395,7 @@
             "last_commit": "2026-07-26T07:14:57Z",
             "owner": "sindresorhus",
             "repo": "p-memoize",
-            "stars": 447
+            "stars": 448
           }
         },
         {
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:55.121Z",
+    "last_updated": "2026-08-13T21:27:00.376Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
     "enhanced_repository": "enhansome/enhansome-promises",
