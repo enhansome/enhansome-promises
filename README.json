@@ -19,7 +19,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184665
+            "stars": 184683
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-11-07T20:26:46Z",
             "owner": "petkaantonov",
             "repo": "bluebird",
-            "stars": 20502
+            "stars": 20493
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-04-25T09:36:15Z",
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5161
+            "stars": 5160
           }
         }
       ],
@@ -168,7 +168,7 @@
             "last_commit": "2024-11-07T20:26:46Z",
             "owner": "petkaantonov",
             "repo": "bluebird",
-            "stars": 20502
+            "stars": 20493
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2023-11-08T10:50:34Z",
             "owner": "kriskowal",
             "repo": "q",
-            "stars": 15020
+            "stars": 15011
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-07-22T20:25:14Z",
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4260
+            "stars": 4259
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-07-20T20:18:50Z",
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2913
+            "stars": 2912
           }
         },
         {
@@ -325,7 +325,7 @@
             "last_commit": "2026-07-20T21:21:12Z",
             "owner": "sindresorhus",
             "repo": "p-map",
-            "stars": 1508
+            "stars": 1507
           }
         },
         {
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:57:11.315Z",
+    "last_updated": "2026-08-16T20:56:01.042Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
     "enhanced_repository": "enhansome/enhansome-promises",
