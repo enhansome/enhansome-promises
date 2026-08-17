@@ -19,7 +19,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184683
+            "stars": 184696
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2024-04-25T09:36:15Z",
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5160
+            "stars": 5161
           }
         }
       ],
@@ -106,7 +106,7 @@
             "last_commit": "2022-11-14T21:47:12Z",
             "owner": "stefanpenner",
             "repo": "es6-promise",
-            "stars": 7255
+            "stars": 7254
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2023-11-08T10:50:34Z",
             "owner": "kriskowal",
             "repo": "q",
-            "stars": 15011
+            "stars": 15008
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-07-22T20:25:14Z",
             "owner": "sindresorhus",
             "repo": "p-queue",
-            "stars": 4259
+            "stars": 4261
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-07-20T20:18:50Z",
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2912
+            "stars": 2913
           }
         },
         {
@@ -807,7 +807,7 @@
             "last_commit": "2020-12-15T07:22:26Z",
             "owner": "tj",
             "repo": "co",
-            "stars": 11841
+            "stars": 11840
           }
         },
         {
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:56:01.042Z",
+    "last_updated": "2026-08-17T21:00:37.931Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
     "enhanced_repository": "enhansome/enhansome-promises",
