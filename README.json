@@ -19,7 +19,7 @@
             "last_commit": "2026-02-15T04:36:44Z",
             "owner": "getify",
             "repo": "You-Dont-Know-JS",
-            "stars": 184696
+            "stars": 184709
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2024-11-07T20:26:46Z",
             "owner": "petkaantonov",
             "repo": "bluebird",
-            "stars": 20493
+            "stars": 20492
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2024-11-07T20:26:46Z",
             "owner": "petkaantonov",
             "repo": "bluebird",
-            "stars": 20493
+            "stars": 20492
           }
         },
         {
@@ -311,7 +311,7 @@
             "last_commit": "2026-07-20T20:18:50Z",
             "owner": "sindresorhus",
             "repo": "p-limit",
-            "stars": 2913
+            "stars": 2914
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2026-03-26T16:08:20Z",
             "owner": "sindresorhus",
             "repo": "p-retry",
-            "stars": 1025
+            "stars": 1026
           }
         },
         {
@@ -932,7 +932,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:00:37.931Z",
+    "last_updated": "2026-08-18T20:58:00.481Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
     "enhanced_repository": "enhansome/enhansome-promises",
