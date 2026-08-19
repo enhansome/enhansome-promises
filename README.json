@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184711
+                "stars": 184714
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2024-11-07T20:26:46Z",
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20491
+                "stars": 20492
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2024-11-07T20:26:46Z",
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20491
+                "stars": 20492
               }
             },
             {
@@ -209,7 +209,7 @@
                 "last_commit": "2023-10-27T00:21:03Z",
                 "owner": "tildeio",
                 "repo": "rsvp.js",
-                "stars": 3597
+                "stars": 3594
               }
             },
             {
@@ -224,7 +224,7 @@
                 "last_commit": "2022-04-10T19:35:16Z",
                 "owner": "cujojs",
                 "repo": "when",
-                "stars": 3424
+                "stars": 3422
               }
             },
             {
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:48:52.465Z",
+    "last_updated": "2026-08-19T20:59:58.414Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_id": 42789965,
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
