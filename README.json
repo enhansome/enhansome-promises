@@ -1,939 +1,1016 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "You Don't Know JS: Promises",
+              "description": "Chapter from You Don't Know JS: Async & Performance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14440270,
+                "language": null,
+                "last_commit": "2026-02-15T04:36:44Z",
+                "owner": "getify",
+                "repo": "You-Dont-Know-JS",
+                "stars": 184711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Promise Cookbook",
+              "description": "The why, what, and how. \"A brief introduction [...] primarily aimed at frontend developers\".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41516012,
+                "language": null,
+                "last_commit": "2017-06-14T14:19:19Z",
+                "owner": "mattdesl",
+                "repo": "promise-cookbook",
+                "stars": 1615
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Promise it won't hurt",
+              "description": "An interactive nodeschool workshop",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14903245,
+                "language": "JavaScript",
+                "last_commit": "2021-04-21T14:51:36Z",
+                "owner": "stevekane",
+                "repo": "promise-it-wont-hurt",
+                "stars": 737
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "For beginners"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Promise anti-patterns",
+              "description": "Common misuses and how to avoid them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12670444,
+                "language": "JavaScript",
+                "last_commit": "2024-11-07T20:26:46Z",
+                "owner": "petkaantonov",
+                "repo": "bluebird",
+                "stars": 20491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Promise Fun",
+              "description": "@sindresorhus's notes, patterns, and solutions to common Promise problems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71446428,
+                "language": null,
+                "last_commit": "2024-04-25T09:36:15Z",
+                "owner": "sindresorhus",
+                "repo": "promise-fun",
+                "stars": 5161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deep Dive"
+        }
+      ],
       "title": "Resources, Blogs, and Books"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "You Don't Know JS: Promises",
-          "description": "Chapter from You Don't Know JS: Async & Performance",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-02-15T04:36:44Z",
-            "owner": "getify",
-            "repo": "You-Dont-Know-JS",
-            "stars": 184709
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "es6-promise",
+              "description": "Opt-in polyfill. A strict-spec subset of rsvp.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15046172,
+                "language": "JavaScript",
+                "last_commit": "2022-11-14T21:47:12Z",
+                "owner": "stefanpenner",
+                "repo": "es6-promise",
+                "stars": 7253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lie",
+              "description": "Small, browserifyable with an opt-in polyfill.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12159312,
+                "language": "JavaScript",
+                "last_commit": "2020-08-21T14:09:23Z",
+                "owner": "calvinmetcalf",
+                "repo": "lie",
+                "stars": 743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "native-promise-only",
+              "description": "Polyfill. Browser and node-compatible.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19442108,
+                "language": "JavaScript",
+                "last_commit": "2019-10-27T02:11:57Z",
+                "owner": "getify",
+                "repo": "native-promise-only",
+                "stars": 715
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pinkie",
+              "description": "Ponyfill. Node-oriented, but browserifyable. Extremely small implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35380896,
+                "language": "JavaScript",
+                "last_commit": "2018-08-20T20:16:29Z",
+                "owner": "floatdrop",
+                "repo": "pinkie",
+                "stars": 138
+              }
+            }
+          ],
+          "description": "These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.",
+          "node_type": "group",
+          "title": "Strict Implementations"
         },
         {
-          "node_type": "item",
-          "title": "Promise Cookbook",
-          "description": "The why, what, and how. \"A brief introduction [...] primarily aimed at frontend developers\".",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-06-14T14:19:19Z",
-            "owner": "mattdesl",
-            "repo": "promise-cookbook",
-            "stars": 1615
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bluebird",
+              "description": "Fully featured, extremely performant. Long stack traces & generator/coroutine support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12670444,
+                "language": "JavaScript",
+                "last_commit": "2024-11-07T20:26:46Z",
+                "owner": "petkaantonov",
+                "repo": "bluebird",
+                "stars": 20491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Q",
+              "description": "One of the original implementations. Long stack traces and other goodies.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 887025,
+                "language": "JavaScript",
+                "last_commit": "2023-11-08T10:50:34Z",
+                "owner": "kriskowal",
+                "repo": "q",
+                "stars": 15007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rsvp.js",
+              "description": "Lightweight with a few extras. Compatible down to IE6!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6248967,
+                "language": "JavaScript",
+                "last_commit": "2023-10-27T00:21:03Z",
+                "owner": "tildeio",
+                "repo": "rsvp.js",
+                "stars": 3597
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "when.js",
+              "description": "Packed with control flow, functional, and utility methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1545869,
+                "language": "JavaScript",
+                "last_commit": "2022-04-10T19:35:16Z",
+                "owner": "cujojs",
+                "repo": "when",
+                "stars": 3424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "then/promise",
+              "description": "Small with , and additions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7297261,
+                "language": "JavaScript",
+                "last_commit": "2023-10-21T03:35:42Z",
+                "owner": "then",
+                "repo": "promise",
+                "stars": 2587
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "creed",
+              "description": "Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39137690,
+                "language": "JavaScript",
+                "last_commit": "2018-05-29T11:34:23Z",
+                "owner": "briancavalier",
+                "repo": "creed",
+                "stars": 277
+              }
+            }
+          ],
+          "description": "All of these provide more features than the language yet remain compatible. Node + Browsers for all.",
+          "node_type": "group",
+          "title": "Implementations with extras"
         },
         {
-          "node_type": "item",
-          "title": "Promise it won't hurt",
-          "description": "An interactive nodeschool workshop",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-21T14:51:36Z",
-            "owner": "stevekane",
-            "repo": "promise-it-wont-hurt",
-            "stars": 737
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "any-promise",
+              "description": "Loads the first available implementation. Safe for browserify.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26247715,
+                "language": "JavaScript",
+                "last_commit": "2018-10-01T08:39:19Z",
+                "owner": "kevinbeaty",
+                "repo": "any-promise",
+                "stars": 180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pinkie-promise",
+              "description": "Use native, or fall back to . Great for node library authors.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35542205,
+                "language": "JavaScript",
+                "last_commit": "2018-05-22T15:20:10Z",
+                "owner": "floatdrop",
+                "repo": "pinkie-promise",
+                "stars": 115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Fallbacks"
         }
       ],
-      "title": "For beginners"
+      "title": "Promises/A+ Implementations (ES6/ES2015 compatible)"
     },
     {
-      "description": "",
+      "description": "Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the constructor and prototype. Solution? tiny modules of course!",
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "p-queue",
+              "description": "Promise queue with concurrency control",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72200120,
+                "language": "TypeScript",
+                "last_commit": "2026-07-22T20:25:14Z",
+                "owner": "sindresorhus",
+                "repo": "p-queue",
+                "stars": 4262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-limit",
+              "description": "Run multiple promise-returning & async functions with limited concurrency",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71542716,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T20:18:50Z",
+                "owner": "sindresorhus",
+                "repo": "p-limit",
+                "stars": 2915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-map",
+              "description": "Map over promises concurrently",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71526722,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T21:21:12Z",
+                "owner": "sindresorhus",
+                "repo": "p-map",
+                "stars": 1508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pify",
+              "description": "Promisify (\"denodify\") a callback-style function.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41585934,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T12:49:04Z",
+                "owner": "sindresorhus",
+                "repo": "pify",
+                "stars": 1503
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-retry",
+              "description": "Retry a promise-returning or async function",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71542126,
+                "language": "JavaScript",
+                "last_commit": "2026-03-26T16:08:20Z",
+                "owner": "sindresorhus",
+                "repo": "p-retry",
+                "stars": 1028
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "delay",
+              "description": "Delay a promise a specified amount of time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46072466,
+                "language": "JavaScript",
+                "last_commit": "2025-10-31T16:34:15Z",
+                "owner": "sindresorhus",
+                "repo": "delay",
+                "stars": 624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-throttle",
+              "description": "Throttle promise-returning & async functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71544230,
+                "language": "JavaScript",
+                "last_commit": "2025-11-08T05:21:43Z",
+                "owner": "sindresorhus",
+                "repo": "p-throttle",
+                "stars": 518
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-memoize",
+              "description": "Memoize promise-returning & async functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71544860,
+                "language": "TypeScript",
+                "last_commit": "2026-07-26T07:14:57Z",
+                "owner": "sindresorhus",
+                "repo": "p-memoize",
+                "stars": 449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-all",
+              "description": "Run promise-returning & async functions concurrently with optional limited concurrency",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71527663,
+                "language": "TypeScript",
+                "last_commit": "2025-09-18T05:55:57Z",
+                "owner": "sindresorhus",
+                "repo": "p-all",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-timeout",
+              "description": "Timeout a promise after a specified amount of time",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71537368,
+                "language": "JavaScript",
+                "last_commit": "2025-10-07T01:46:07Z",
+                "owner": "sindresorhus",
+                "repo": "p-timeout",
+                "stars": 305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-lazy",
+              "description": "Create a lazy promise that defers execution until or is called",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73060555,
+                "language": "JavaScript",
+                "last_commit": "2024-10-28T06:52:02Z",
+                "owner": "sindresorhus",
+                "repo": "p-lazy",
+                "stars": 286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "loud-rejection",
+              "description": "Make unhandled promise rejections fail loudly instead of the default silent fail.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43604481,
+                "language": "JavaScript",
+                "last_commit": "2021-01-24T17:31:53Z",
+                "owner": "sindresorhus",
+                "repo": "loud-rejection",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-debounce",
+              "description": "Debounce promise-returning & async functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71543534,
+                "language": "JavaScript",
+                "last_commit": "2025-11-11T08:28:18Z",
+                "owner": "sindresorhus",
+                "repo": "p-debounce",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-props",
+              "description": "Like but for and",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71528422,
+                "language": "JavaScript",
+                "last_commit": "2025-09-21T06:45:21Z",
+                "owner": "sindresorhus",
+                "repo": "p-props",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-wait-for",
+              "description": "Wait for a condition to be true",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71538128,
+                "language": "JavaScript",
+                "last_commit": "2025-09-21T04:41:21Z",
+                "owner": "sindresorhus",
+                "repo": "p-wait-for",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-tap",
+              "description": "Tap into a promise chain without affecting its value or state",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71538817,
+                "language": "JavaScript",
+                "last_commit": "2021-04-08T18:47:29Z",
+                "owner": "sindresorhus",
+                "repo": "p-tap",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-pipe",
+              "description": "Compose promise-returning & async functions into a reusable pipeline",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71531453,
+                "language": "TypeScript",
+                "last_commit": "2021-04-08T14:00:29Z",
+                "owner": "sindresorhus",
+                "repo": "p-pipe",
+                "stars": 131
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hard-rejection",
+              "description": "Make unhandled promise rejections fail hard right away instead of the default silent fail",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66733233,
+                "language": "JavaScript",
+                "last_commit": "2022-07-08T12:05:27Z",
+                "owner": "sindresorhus",
+                "repo": "hard-rejection",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-settle",
+              "description": "Settle promises concurrently and get their fulfillment value or rejection reason",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71535711,
+                "language": "JavaScript",
+                "last_commit": "2026-04-11T03:44:34Z",
+                "owner": "sindresorhus",
+                "repo": "p-settle",
+                "stars": 96
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-defer",
+              "description": "Create a deferred promise",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71531782,
+                "language": "JavaScript",
+                "last_commit": "2025-09-08T11:20:20Z",
+                "owner": "sindresorhus",
+                "repo": "p-defer",
+                "stars": 87
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-filter",
+              "description": "Filter promises concurrently",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71528845,
+                "language": "JavaScript",
+                "last_commit": "2026-03-22T08:16:32Z",
+                "owner": "sindresorhus",
+                "repo": "p-filter",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-time",
+              "description": "Measure the time a promise takes to resolve",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63110210,
+                "language": "JavaScript",
+                "last_commit": "2023-11-05T20:54:35Z",
+                "owner": "sindresorhus",
+                "repo": "p-time",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-reduce",
+              "description": "Reduce a list of values using promises into a promise for a value",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71529248,
+                "language": "JavaScript",
+                "last_commit": "2023-02-11T08:31:44Z",
+                "owner": "sindresorhus",
+                "repo": "p-reduce",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-if",
+              "description": "Conditional promise chains",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71539394,
+                "language": "TypeScript",
+                "last_commit": "2021-04-09T06:05:43Z",
+                "owner": "sindresorhus",
+                "repo": "p-if",
+                "stars": 64
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-try",
+              "description": "ponyfill - Starts a promise chain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71534796,
+                "language": "JavaScript",
+                "last_commit": "2025-09-16T02:55:43Z",
+                "owner": "sindresorhus",
+                "repo": "p-try",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-whilst",
+              "description": "Calls a function repeatedly while a condition returns true and then resolves the promise",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46364652,
+                "language": "JavaScript",
+                "last_commit": "2024-10-16T14:39:19Z",
+                "owner": "sindresorhus",
+                "repo": "p-whilst",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-any",
+              "description": "Wait for any promise to be fulfilled",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71532789,
+                "language": "JavaScript",
+                "last_commit": "2022-07-09T03:54:12Z",
+                "owner": "sindresorhus",
+                "repo": "p-any",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-each-series",
+              "description": "Iterate over promises serially",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71530968,
+                "language": "JavaScript",
+                "last_commit": "2022-07-08T15:21:29Z",
+                "owner": "sindresorhus",
+                "repo": "p-each-series",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-race",
+              "description": "A better",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71536740,
+                "language": "JavaScript",
+                "last_commit": "2022-12-13T15:14:20Z",
+                "owner": "sindresorhus",
+                "repo": "p-race",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-map-series",
+              "description": "Map over promises serially",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71529706,
+                "language": "JavaScript",
+                "last_commit": "2021-04-09T06:29:45Z",
+                "owner": "sindresorhus",
+                "repo": "p-map-series",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-finally",
+              "description": "ponyfill - Invoked when the promise is settled regardless of outcome",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 71534025,
+                "language": "JavaScript",
+                "last_commit": "2021-04-09T05:45:17Z",
+                "owner": "sindresorhus",
+                "repo": "p-finally",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-times",
+              "description": "Run promise-returning & async functions a specific number of times concurrently",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71643747,
+                "language": "JavaScript",
+                "last_commit": "2021-10-04T16:20:37Z",
+                "owner": "sindresorhus",
+                "repo": "p-times",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-catch-if",
+              "description": "Conditional promise catch handler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71648929,
+                "language": "JavaScript",
+                "last_commit": "2021-04-09T05:11:40Z",
+                "owner": "sindresorhus",
+                "repo": "p-catch-if",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-some",
+              "description": "Wait for a specified number of promises to be fulfilled",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71532242,
+                "language": "JavaScript",
+                "last_commit": "2025-09-11T13:21:12Z",
+                "owner": "sindresorhus",
+                "repo": "p-some",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-log",
+              "description": "Log the value/error of a promise",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71540770,
+                "language": "JavaScript",
+                "last_commit": "2021-04-09T06:24:46Z",
+                "owner": "sindresorhus",
+                "repo": "p-log",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-break",
+              "description": "Break out of a promise chain",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73466636,
+                "language": "JavaScript",
+                "last_commit": "2021-04-07T07:29:33Z",
+                "owner": "sindresorhus",
+                "repo": "p-break",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
           "node_type": "item",
-          "title": "Promise anti-patterns",
-          "description": "Common misuses and how to avoid them.",
-          "children": [],
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-07T20:26:46Z",
-            "owner": "petkaantonov",
-            "repo": "bluebird",
-            "stars": 20492
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Promise Fun",
-          "description": "@sindresorhus's notes, patterns, and solutions to common Promise problems",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 71446428,
             "language": null,
             "last_commit": "2024-04-25T09:36:15Z",
             "owner": "sindresorhus",
             "repo": "promise-fun",
             "stars": 5161
-          }
+          },
+          "title": "sindresorhus's many Promise utilities (see notes)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "co",
+              "description": "Like and , but supports thunks too.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10518659,
+                "language": "JavaScript",
+                "last_commit": "2020-12-15T07:22:26Z",
+                "owner": "tj",
+                "repo": "co",
+                "stars": 11840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "task.js",
+              "description": "Write async functions in a blocking style using promises and generators. Like .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 982699,
+                "language": "JavaScript",
+                "last_commit": "2019-03-28T03:38:53Z",
+                "owner": "mozilla",
+                "repo": "task.js",
+                "stars": 1628
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "is-promise",
+              "description": "Determine if something looks like a Promise.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7296439,
+                "language": "JavaScript",
+                "last_commit": "2023-04-29T17:31:49Z",
+                "owner": "then",
+                "repo": "is-promise",
+                "stars": 282
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "promise-semaphore",
+              "description": "Push a set of work to be done in a configurable serial fashion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28431999,
+                "language": "JavaScript",
+                "last_commit": "2016-09-15T16:08:52Z",
+                "owner": "samccone",
+                "repo": "promise-semaphore",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sprom",
+              "description": "Resolve when a stream ends. Optional buffering (be careful with this!)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9633519,
+                "language": "JavaScript",
+                "last_commit": "2017-11-16T02:36:27Z",
+                "owner": "then",
+                "repo": "sprom",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "promise-do-whilst",
+              "description": "Calls a function repeatedly while a condition returns true and then resolves the promise.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46890427,
+                "language": "JavaScript",
+                "last_commit": "2018-08-25T21:47:54Z",
+                "owner": "busterc",
+                "repo": "promise-do-whilst",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "promise-method",
+              "description": "Standalone . Turn a synchronously-returning method into a promise-returning one.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42762916,
+                "language": "JavaScript",
+                "last_commit": "2023-12-15T20:18:51Z",
+                "owner": "wbinnssmith",
+                "repo": "promise-method",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "promise-nodeify",
+              "description": "Standalone method which calls a Node-style callback on resolution or rejection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52988989,
+                "language": "JavaScript",
+                "last_commit": "2026-08-10T00:16:41Z",
+                "owner": "kevinoid",
+                "repo": "promise-nodeify",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "promise-do-until",
+              "description": "Calls a function repeatedly until a condition returns true and then resolves the promise.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46890368,
+                "language": "JavaScript",
+                "last_commit": "2018-08-25T21:46:41Z",
+                "owner": "busterc",
+                "repo": "promise-do-until",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
         }
       ],
-      "title": "Deep Dive"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Promises/A+ Implementations (ES6/ES2015 compatible)"
-    },
-    {
-      "description": "These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "es6-promise",
-          "description": "Opt-in polyfill. A strict-spec subset of rsvp.js.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-11-14T21:47:12Z",
-            "owner": "stefanpenner",
-            "repo": "es6-promise",
-            "stars": 7254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lie",
-          "description": "Small, browserifyable with an opt-in polyfill.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-08-21T14:09:23Z",
-            "owner": "calvinmetcalf",
-            "repo": "lie",
-            "stars": 743
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "native-promise-only",
-          "description": "Polyfill. Browser and node-compatible.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-10-27T02:11:57Z",
-            "owner": "getify",
-            "repo": "native-promise-only",
-            "stars": 715
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pinkie",
-          "description": "Ponyfill. Node-oriented, but browserifyable. Extremely small implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-08-20T20:16:29Z",
-            "owner": "floatdrop",
-            "repo": "pinkie",
-            "stars": 138
-          }
-        }
-      ],
-      "title": "Strict Implementations"
-    },
-    {
-      "description": "All of these provide more features than the language yet remain compatible. Node + Browsers for all.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bluebird",
-          "description": "Fully featured, extremely performant. Long stack traces & generator/coroutine support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-11-07T20:26:46Z",
-            "owner": "petkaantonov",
-            "repo": "bluebird",
-            "stars": 20492
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Q",
-          "description": "One of the original implementations. Long stack traces and other goodies.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-11-08T10:50:34Z",
-            "owner": "kriskowal",
-            "repo": "q",
-            "stars": 15008
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rsvp.js",
-          "description": "Lightweight with a few extras. Compatible down to IE6!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-27T00:21:03Z",
-            "owner": "tildeio",
-            "repo": "rsvp.js",
-            "stars": 3597
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "when.js",
-          "description": "Packed with control flow, functional, and utility methods.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-04-10T19:35:16Z",
-            "owner": "cujojs",
-            "repo": "when",
-            "stars": 3424
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "then/promise",
-          "description": "Small with , and additions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-21T03:35:42Z",
-            "owner": "then",
-            "repo": "promise",
-            "stars": 2587
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "creed",
-          "description": "Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-05-29T11:34:23Z",
-            "owner": "briancavalier",
-            "repo": "creed",
-            "stars": 277
-          }
-        }
-      ],
-      "title": "Implementations with extras"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "any-promise",
-          "description": "Loads the first available implementation. Safe for browserify.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-10-01T08:39:19Z",
-            "owner": "kevinbeaty",
-            "repo": "any-promise",
-            "stars": 180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pinkie-promise",
-          "description": "Use native, or fall back to . Great for node library authors.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-05-22T15:20:10Z",
-            "owner": "floatdrop",
-            "repo": "pinkie-promise",
-            "stars": 115
-          }
-        }
-      ],
-      "title": "Fallbacks"
-    },
-    {
-      "description": "Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the constructor and prototype. Solution? tiny modules of course!",
-      "items": [],
       "title": "Convenience Utilities"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "p-queue",
-          "description": "Promise queue with concurrency control",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-22T20:25:14Z",
-            "owner": "sindresorhus",
-            "repo": "p-queue",
-            "stars": 4261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-limit",
-          "description": "Run multiple promise-returning & async functions with limited concurrency",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-20T20:18:50Z",
-            "owner": "sindresorhus",
-            "repo": "p-limit",
-            "stars": 2914
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-map",
-          "description": "Map over promises concurrently",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-20T21:21:12Z",
-            "owner": "sindresorhus",
-            "repo": "p-map",
-            "stars": 1507
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pify",
-          "description": "Promisify (\"denodify\") a callback-style function.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-23T12:49:04Z",
-            "owner": "sindresorhus",
-            "repo": "pify",
-            "stars": 1503
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-retry",
-          "description": "Retry a promise-returning or async function",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-26T16:08:20Z",
-            "owner": "sindresorhus",
-            "repo": "p-retry",
-            "stars": 1026
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "delay",
-          "description": "Delay a promise a specified amount of time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-31T16:34:15Z",
-            "owner": "sindresorhus",
-            "repo": "delay",
-            "stars": 624
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-throttle",
-          "description": "Throttle promise-returning & async functions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-08T05:21:43Z",
-            "owner": "sindresorhus",
-            "repo": "p-throttle",
-            "stars": 518
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-memoize",
-          "description": "Memoize promise-returning & async functions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-26T07:14:57Z",
-            "owner": "sindresorhus",
-            "repo": "p-memoize",
-            "stars": 448
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-all",
-          "description": "Run promise-returning & async functions concurrently with optional limited concurrency",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-09-18T05:55:57Z",
-            "owner": "sindresorhus",
-            "repo": "p-all",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-timeout",
-          "description": "Timeout a promise after a specified amount of time",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-10-07T01:46:07Z",
-            "owner": "sindresorhus",
-            "repo": "p-timeout",
-            "stars": 305
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-lazy",
-          "description": "Create a lazy promise that defers execution until or is called",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-28T06:52:02Z",
-            "owner": "sindresorhus",
-            "repo": "p-lazy",
-            "stars": 286
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "loud-rejection",
-          "description": "Make unhandled promise rejections fail loudly instead of the default silent fail.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-01-24T17:31:53Z",
-            "owner": "sindresorhus",
-            "repo": "loud-rejection",
-            "stars": 281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-debounce",
-          "description": "Debounce promise-returning & async functions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-11T08:28:18Z",
-            "owner": "sindresorhus",
-            "repo": "p-debounce",
-            "stars": 237
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-props",
-          "description": "Like but for and",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-21T06:45:21Z",
-            "owner": "sindresorhus",
-            "repo": "p-props",
-            "stars": 202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-wait-for",
-          "description": "Wait for a condition to be true",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-21T04:41:21Z",
-            "owner": "sindresorhus",
-            "repo": "p-wait-for",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-tap",
-          "description": "Tap into a promise chain without affecting its value or state",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-08T18:47:29Z",
-            "owner": "sindresorhus",
-            "repo": "p-tap",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-pipe",
-          "description": "Compose promise-returning & async functions into a reusable pipeline",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-04-08T14:00:29Z",
-            "owner": "sindresorhus",
-            "repo": "p-pipe",
-            "stars": 131
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hard-rejection",
-          "description": "Make unhandled promise rejections fail hard right away instead of the default silent fail",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-08T12:05:27Z",
-            "owner": "sindresorhus",
-            "repo": "hard-rejection",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-settle",
-          "description": "Settle promises concurrently and get their fulfillment value or rejection reason",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-11T03:44:34Z",
-            "owner": "sindresorhus",
-            "repo": "p-settle",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-defer",
-          "description": "Create a deferred promise",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-08T11:20:20Z",
-            "owner": "sindresorhus",
-            "repo": "p-defer",
-            "stars": 87
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-filter",
-          "description": "Filter promises concurrently",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-22T08:16:32Z",
-            "owner": "sindresorhus",
-            "repo": "p-filter",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-time",
-          "description": "Measure the time a promise takes to resolve",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-05T20:54:35Z",
-            "owner": "sindresorhus",
-            "repo": "p-time",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-reduce",
-          "description": "Reduce a list of values using promises into a promise for a value",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-11T08:31:44Z",
-            "owner": "sindresorhus",
-            "repo": "p-reduce",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-if",
-          "description": "Conditional promise chains",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-04-09T06:05:43Z",
-            "owner": "sindresorhus",
-            "repo": "p-if",
-            "stars": 64
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-try",
-          "description": "ponyfill - Starts a promise chain",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-16T02:55:43Z",
-            "owner": "sindresorhus",
-            "repo": "p-try",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-whilst",
-          "description": "Calls a function repeatedly while a condition returns true and then resolves the promise",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-16T14:39:19Z",
-            "owner": "sindresorhus",
-            "repo": "p-whilst",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-any",
-          "description": "Wait for any promise to be fulfilled",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-09T03:54:12Z",
-            "owner": "sindresorhus",
-            "repo": "p-any",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-each-series",
-          "description": "Iterate over promises serially",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-08T15:21:29Z",
-            "owner": "sindresorhus",
-            "repo": "p-each-series",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-race",
-          "description": "A better",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-13T15:14:20Z",
-            "owner": "sindresorhus",
-            "repo": "p-race",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-map-series",
-          "description": "Map over promises serially",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-09T06:29:45Z",
-            "owner": "sindresorhus",
-            "repo": "p-map-series",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-finally",
-          "description": "ponyfill - Invoked when the promise is settled regardless of outcome",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-04-09T05:45:17Z",
-            "owner": "sindresorhus",
-            "repo": "p-finally",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-times",
-          "description": "Run promise-returning & async functions a specific number of times concurrently",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-10-04T16:20:37Z",
-            "owner": "sindresorhus",
-            "repo": "p-times",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-catch-if",
-          "description": "Conditional promise catch handler",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-09T05:11:40Z",
-            "owner": "sindresorhus",
-            "repo": "p-catch-if",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-some",
-          "description": "Wait for a specified number of promises to be fulfilled",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-11T13:21:12Z",
-            "owner": "sindresorhus",
-            "repo": "p-some",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-log",
-          "description": "Log the value/error of a promise",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-09T06:24:46Z",
-            "owner": "sindresorhus",
-            "repo": "p-log",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "p-break",
-          "description": "Break out of a promise chain",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-07T07:29:33Z",
-            "owner": "sindresorhus",
-            "repo": "p-break",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "sindresorhus's many Promise utilities (see notes)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "co",
-          "description": "Like and , but supports thunks too.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-12-15T07:22:26Z",
-            "owner": "tj",
-            "repo": "co",
-            "stars": 11840
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "task.js",
-          "description": "Write async functions in a blocking style using promises and generators. Like .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-03-28T03:38:53Z",
-            "owner": "mozilla",
-            "repo": "task.js",
-            "stars": 1628
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "is-promise",
-          "description": "Determine if something looks like a Promise.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-04-29T17:31:49Z",
-            "owner": "then",
-            "repo": "is-promise",
-            "stars": 282
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "promise-semaphore",
-          "description": "Push a set of work to be done in a configurable serial fashion",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-09-15T16:08:52Z",
-            "owner": "samccone",
-            "repo": "promise-semaphore",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sprom",
-          "description": "Resolve when a stream ends. Optional buffering (be careful with this!)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-11-16T02:36:27Z",
-            "owner": "then",
-            "repo": "sprom",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "promise-do-whilst",
-          "description": "Calls a function repeatedly while a condition returns true and then resolves the promise.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-25T21:47:54Z",
-            "owner": "busterc",
-            "repo": "promise-do-whilst",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "promise-method",
-          "description": "Standalone . Turn a synchronously-returning method into a promise-returning one.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-12-15T20:18:51Z",
-            "owner": "wbinnssmith",
-            "repo": "promise-method",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "promise-nodeify",
-          "description": "Standalone method which calls a Node-style callback on resolution or rejection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-10T00:16:41Z",
-            "owner": "kevinoid",
-            "repo": "promise-nodeify",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "promise-do-until",
-          "description": "Calls a function repeatedly until a condition returns true and then resolves the promise.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-25T21:46:41Z",
-            "owner": "busterc",
-            "repo": "promise-do-until",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "Licensed under the Creative Commons CC0 License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:58:00.481Z",
+    "last_updated": "2026-08-19T12:48:52.465Z",
     "original_repository": "wbinnssmith/awesome-promises",
+    "original_repository_id": 42789965,
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
     "enhanced_repository": "enhansome/enhansome-promises",
     "enhanced_repository_description": null,
