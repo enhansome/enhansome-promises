@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,789 | 🐛 102 | 📅 2026-08-18 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,206 | 🐛 105 | 📅 2026-08-18 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,789 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,714 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,714 | 🐛 2 | 📅 2026-02-15
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,703 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,703 | 🐛 2 | 📅 2026-02-15
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,615 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 737 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,789 |
 ### Deep Dive
 
 * [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) ⭐ 20,492 | 🐛 131 | 🌐 JavaScript | 📅 2024-11-07 - Common misuses and how to avoid them.
-* [Promise Fun](https://github.com/sindresorhus/promise-fun) ⭐ 5,161 | 🐛 0 | 📅 2024-04-25 - @sindresorhus's notes, patterns, and solutions to common Promise problems
+* [Promise Fun](https://github.com/sindresorhus/promise-fun) ⭐ 5,164 | 🐛 0 | 📅 2024-04-25 - @sindresorhus's notes, patterns, and solutions to common Promise problems
 * [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (prior to 3.0) isn't enough.
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
 * [Promise anti-patterns (2)](http://taoofcode.net/promise-anti-patterns/) - Another set of promises anti-patterns
@@ -57,9 +57,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,789 |
 These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
 * [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,253 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - Opt-in polyfill. A strict-spec subset of rsvp.js.
-* [lie](https://github.com/calvinmetcalf/lie) ⭐ 743 | 🐛 5 | 🌐 JavaScript | 📅 2020-08-21 - Small, browserifyable with an opt-in polyfill.
+* [lie](https://github.com/calvinmetcalf/lie) ⭐ 742 | 🐛 5 | 🌐 JavaScript | 📅 2020-08-21 - Small, browserifyable with an opt-in polyfill.
 * [native-promise-only](https://github.com/getify/native-promise-only) ⚠️ Archived - Polyfill. Browser and node-compatible.
-* [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,697 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21. *Extremely* small implementation.
+* [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,698 | 🐛 380 | 🌐 JavaScript | 📅 2024-12-21. *Extremely* small implementation.
 
 ### Implementations with extras
 
@@ -82,7 +82,7 @@ All of these provide more features than the language yet remain compatible. Node
 
 Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
 
-### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun) ⭐ 5,161 | 🐛 0 | 📅 2024-04-25)
+### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun) ⭐ 5,164 | 🐛 0 | 📅 2024-04-25)
 
 * [p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,262 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-22 - Promise queue with concurrency control
 * [p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,915 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-20 - Run multiple promise-returning & async functions with limited concurrency
@@ -96,28 +96,28 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 305 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-07 - Timeout a promise after a specified amount of time
 * [p-lazy](https://github.com/sindresorhus/p-lazy) ⭐ 286 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-28 - Create a lazy promise that defers execution until `.then()` or `.catch()` is called
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) ⭐ 281 | 🐛 0 | 🌐 JavaScript | 📅 2021-01-24 - Make unhandled promise rejections fail loudly instead of the default silent fail.
-* [p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 237 | 🐛 4 | 🌐 JavaScript | 📅 2025-11-11 - Debounce promise-returning & async functions
-* [p-props](https://github.com/sindresorhus/p-props) ⭐ 202 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21 - Like `Promise.all()` but for `Map` and `Object`
+* [p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 238 | 🐛 4 | 🌐 JavaScript | 📅 2025-11-11 - Debounce promise-returning & async functions
+* [p-props](https://github.com/sindresorhus/p-props) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21 - Like `Promise.all()` but for `Map` and `Object`
 * [p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21 - Wait for a condition to be true
 * [p-tap](https://github.com/sindresorhus/p-tap) ⭐ 134 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-08 - Tap into a promise chain without affecting its value or state
 * [p-pipe](https://github.com/sindresorhus/p-pipe) ⭐ 131 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-08 - Compose promise-returning & async functions into a reusable pipeline
 * [hard-rejection](https://github.com/sindresorhus/hard-rejection) ⭐ 107 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-08 - Make unhandled promise rejections fail hard right away instead of the default silent fail
 * [p-settle](https://github.com/sindresorhus/p-settle) ⭐ 96 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-11 - Settle promises concurrently and get their fulfillment value or rejection reason
 * [p-defer](https://github.com/sindresorhus/p-defer) ⭐ 87 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-08 - Create a deferred promise
-* [p-filter](https://github.com/sindresorhus/p-filter) ⭐ 83 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-22 - Filter promises concurrently
+* [p-filter](https://github.com/sindresorhus/p-filter) ⭐ 82 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-22 - Filter promises concurrently
 * [p-time](https://github.com/sindresorhus/p-time) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2023-11-05 - Measure the time a promise takes to resolve
-* [p-reduce](https://github.com/sindresorhus/p-reduce) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-11 - Reduce a list of values using promises into a promise for a value
+* [p-reduce](https://github.com/sindresorhus/p-reduce) ⭐ 73 | 🐛 0 | 🌐 JavaScript | 📅 2023-02-11 - Reduce a list of values using promises into a promise for a value
 * [p-if](https://github.com/sindresorhus/p-if) ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2021-04-09 - Conditional promise chains
 * [p-try](https://github.com/sindresorhus/p-try) ⭐ 62 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-16 - `Promise#try()` ponyfill - Starts a promise chain
 * [p-whilst](https://github.com/sindresorhus/p-whilst) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-16 - Calls a function repeatedly while a condition returns true and then resolves the promise
-* [p-any](https://github.com/sindresorhus/p-any) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-09 - Wait for any promise to be fulfilled
-* [p-each-series](https://github.com/sindresorhus/p-each-series) ⭐ 53 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-08 - Iterate over promises serially
+* [p-any](https://github.com/sindresorhus/p-any) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-09 - Wait for any promise to be fulfilled
 * [p-race](https://github.com/sindresorhus/p-race) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-13 - A better `Promise.race()`
+* [p-each-series](https://github.com/sindresorhus/p-each-series) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-08 - Iterate over promises serially
 * [p-map-series](https://github.com/sindresorhus/p-map-series) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-09 - Map over promises serially
 * [p-finally](https://github.com/sindresorhus/p-finally) ⚠️ Archived - `Promise#finally()` ponyfill - Invoked when the promise is settled regardless of outcome
 * [p-times](https://github.com/sindresorhus/p-times) ⭐ 42 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-04 - Run promise-returning & async functions a specific number of times concurrently
 * [p-catch-if](https://github.com/sindresorhus/p-catch-if) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-09 - Conditional promise catch handler
-* [p-some](https://github.com/sindresorhus/p-some) ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-11 - Wait for a specified number of promises to be fulfilled
+* [p-some](https://github.com/sindresorhus/p-some) ⭐ 39 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-11 - Wait for a specified number of promises to be fulfilled
 * [p-log](https://github.com/sindresorhus/p-log) ⭐ 30 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-09 - Log the value/error of a promise
 * [p-break](https://github.com/sindresorhus/p-break) ⭐ 24 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-07 - Break out of a promise chain
 
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

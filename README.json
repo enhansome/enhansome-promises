@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184714
+                "stars": 184703
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2024-04-25T09:36:15Z",
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5161
+                "stars": 5164
               }
             }
           ],
@@ -127,7 +127,7 @@
                 "last_commit": "2020-08-21T14:09:23Z",
                 "owner": "calvinmetcalf",
                 "repo": "lie",
-                "stars": 743
+                "stars": 742
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2023-11-08T10:50:34Z",
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 15007
+                "stars": 15008
               }
             },
             {
@@ -499,7 +499,7 @@
                 "last_commit": "2025-11-11T08:28:18Z",
                 "owner": "sindresorhus",
                 "repo": "p-debounce",
-                "stars": 237
+                "stars": 238
               }
             },
             {
@@ -514,7 +514,7 @@
                 "last_commit": "2025-09-21T06:45:21Z",
                 "owner": "sindresorhus",
                 "repo": "p-props",
-                "stars": 202
+                "stars": 201
               }
             },
             {
@@ -619,7 +619,7 @@
                 "last_commit": "2026-03-22T08:16:32Z",
                 "owner": "sindresorhus",
                 "repo": "p-filter",
-                "stars": 83
+                "stars": 82
               }
             },
             {
@@ -649,7 +649,7 @@
                 "last_commit": "2023-02-11T08:31:44Z",
                 "owner": "sindresorhus",
                 "repo": "p-reduce",
-                "stars": 74
+                "stars": 73
               }
             },
             {
@@ -709,22 +709,7 @@
                 "last_commit": "2022-07-09T03:54:12Z",
                 "owner": "sindresorhus",
                 "repo": "p-any",
-                "stars": 57
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "p-each-series",
-              "description": "Iterate over promises serially",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 71530968,
-                "language": "JavaScript",
-                "last_commit": "2022-07-08T15:21:29Z",
-                "owner": "sindresorhus",
-                "repo": "p-each-series",
-                "stars": 53
+                "stars": 56
               }
             },
             {
@@ -739,6 +724,21 @@
                 "last_commit": "2022-12-13T15:14:20Z",
                 "owner": "sindresorhus",
                 "repo": "p-race",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "p-each-series",
+              "description": "Iterate over promises serially",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71530968,
+                "language": "JavaScript",
+                "last_commit": "2022-07-08T15:21:29Z",
+                "owner": "sindresorhus",
+                "repo": "p-each-series",
                 "stars": 52
               }
             },
@@ -814,7 +814,7 @@
                 "last_commit": "2025-09-11T13:21:12Z",
                 "owner": "sindresorhus",
                 "repo": "p-some",
-                "stars": 40
+                "stars": 39
               }
             },
             {
@@ -857,7 +857,7 @@
             "last_commit": "2024-04-25T09:36:15Z",
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5161
+            "stars": 5164
           },
           "title": "sindresorhus's many Promise utilities (see notes)"
         },
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:59:58.414Z",
+    "last_updated": "2026-08-20T21:02:00.241Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_id": 42789965,
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
