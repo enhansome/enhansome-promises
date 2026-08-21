@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184703
+                "stars": 184710
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2023-11-08T10:50:34Z",
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 15008
+                "stars": 15010
               }
             },
             {
@@ -875,7 +875,7 @@
                 "last_commit": "2020-12-15T07:22:26Z",
                 "owner": "tj",
                 "repo": "co",
-                "stars": 11840
+                "stars": 11841
               }
             },
             {
@@ -1008,7 +1008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:02:00.241Z",
+    "last_updated": "2026-08-21T20:58:02.841Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_id": 42789965,
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
