@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184718
+                "stars": 184720
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2024-04-25T09:36:15Z",
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5166
+                "stars": 5167
               }
             }
           ],
@@ -879,7 +879,7 @@
             "last_commit": "2024-04-25T09:36:15Z",
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5166
+            "stars": 5167
           },
           "title": "sindresorhus's many Promise utilities (see notes)"
         },
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:39.936Z",
+    "last_updated": "2026-08-24T21:03:32.473Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_id": 42789965,
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
