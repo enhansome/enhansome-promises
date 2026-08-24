@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184717
+                "stars": 184718
               }
             },
             {
@@ -91,6 +91,28 @@
           "description": null,
           "node_type": "group",
           "title": "Deep Dive"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fates and States",
+              "description": "Quick definitions of possible states.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12286597,
+                "language": "JavaScript",
+                "last_commit": "2020-05-15T02:49:18Z",
+                "owner": "domenic",
+                "repo": "promises-unwrapping",
+                "stars": 1258
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "References"
         }
       ],
       "title": "Resources, Blogs, and Books"
@@ -319,7 +341,7 @@
                 "last_commit": "2026-07-22T20:25:14Z",
                 "owner": "sindresorhus",
                 "repo": "p-queue",
-                "stars": 4262
+                "stars": 4263
               }
             },
             {
@@ -334,7 +356,7 @@
                 "last_commit": "2026-07-20T20:18:50Z",
                 "owner": "sindresorhus",
                 "repo": "p-limit",
-                "stars": 2916
+                "stars": 2918
               }
             },
             {
@@ -1008,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:56:34.188Z",
+    "last_updated": "2026-08-24T14:07:39.936Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_id": 42789965,
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
