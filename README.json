@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184720
+                "stars": 184721
               }
             },
             {
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:03:32.473Z",
+    "last_updated": "2026-08-25T06:03:34.978Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_id": 42789965,
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
