@@ -17,7 +17,7 @@
                 "last_commit": "2026-02-15T04:36:44Z",
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184721
+                "stars": 184724
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2024-04-25T09:36:15Z",
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5167
+                "stars": 5166
               }
             }
           ],
@@ -216,7 +216,7 @@
                 "last_commit": "2023-11-08T10:50:34Z",
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 15010
+                "stars": 15011
               }
             },
             {
@@ -341,7 +341,7 @@
                 "last_commit": "2026-07-22T20:25:14Z",
                 "owner": "sindresorhus",
                 "repo": "p-queue",
-                "stars": 4263
+                "stars": 4264
               }
             },
             {
@@ -371,7 +371,7 @@
                 "last_commit": "2026-07-20T21:21:12Z",
                 "owner": "sindresorhus",
                 "repo": "p-map",
-                "stars": 1509
+                "stars": 1510
               }
             },
             {
@@ -401,7 +401,7 @@
                 "last_commit": "2026-03-26T16:08:20Z",
                 "owner": "sindresorhus",
                 "repo": "p-retry",
-                "stars": 1028
+                "stars": 1027
               }
             },
             {
@@ -879,7 +879,7 @@
             "last_commit": "2024-04-25T09:36:15Z",
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5167
+            "stars": 5166
           },
           "title": "sindresorhus's many Promise utilities (see notes)"
         },
@@ -1030,7 +1030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:34.978Z",
+    "last_updated": "2026-08-25T21:00:32.852Z",
     "original_repository": "wbinnssmith/awesome-promises",
     "original_repository_id": 42789965,
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
