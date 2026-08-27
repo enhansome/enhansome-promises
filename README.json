@@ -341,7 +341,7 @@
                 "last_commit": "2026-07-22T20:25:14Z",
                 "owner": "sindresorhus",
                 "repo": "p-queue",
-                "stars": 4265
+                "stars": 4266
               }
             },
             {
@@ -401,7 +401,7 @@
                 "last_commit": "2026-03-26T16:08:20Z",
                 "owner": "sindresorhus",
                 "repo": "p-retry",
-                "stars": 1027
+                "stars": 1028
               }
             },
             {
@@ -1030,9 +1030,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:04:11.784Z",
-    "original_repository": "wbinnssmith/awesome-promises",
-    "original_repository_id": 42789965,
+    "last_updated": "2026-08-27T11:57:34.467Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 42789965,
+      "language": null,
+      "last_commit": "2023-12-15T08:38:32Z",
+      "owner": "wbinnssmith",
+      "repo": "awesome-promises",
+      "stars": 1750
+    },
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
     "enhanced_repository": "enhansome/enhansome-promises",
     "enhanced_repository_description": null,
