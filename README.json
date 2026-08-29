@@ -12,12 +12,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A book series (2 published editions) on the JS language.",
+                "homepage": "https://www.amazon.com/dp/B085XXCJ7X",
                 "id": 14440270,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-15T04:36:44Z",
+                "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184748
+                "stars": 184747,
+                "topics": [
+                  "async",
+                  "book",
+                  "book-series",
+                  "closures",
+                  "education",
+                  "es2015",
+                  "es6",
+                  "javascript",
+                  "learn-to-code",
+                  "programming",
+                  "prototypes",
+                  "training-materials",
+                  "training-providers"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -28,12 +47,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":orange_book: a brief introduction to using Promises in JavaScript",
+                "homepage": null,
                 "id": 41516012,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-06-14T14:19:19Z",
+                "open_issues": 1,
                 "owner": "mattdesl",
                 "repo": "promise-cookbook",
-                "stars": 1614
+                "stars": 1614,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -44,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Workshopper module that teaches you to use promises in javascript",
+                "homepage": null,
                 "id": 14903245,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-04-21T14:51:36Z",
+                "open_issues": 45,
                 "owner": "stevekane",
                 "repo": "promise-it-wont-hurt",
-                "stars": 737
+                "stars": 737,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             }
@@ -67,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bird: :zap: Bluebird is a full featured promise library with unmatched performance.",
+                "homepage": "http://bluebirdjs.com",
                 "id": 12670444,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-07T20:26:46Z",
+                "open_issues": 131,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20490
+                "stars": 20490,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -83,12 +117,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Promise packages, patterns, chat, and tutorials",
+                "homepage": null,
                 "id": 71446428,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-04-25T09:36:15Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5166
+                "stars": 5166,
+                "topics": [
+                  "async",
+                  "async-await",
+                  "async-functions",
+                  "awesome",
+                  "awesome-list",
+                  "concurrency",
+                  "iteration",
+                  "javascript",
+                  "list",
+                  "nodejs",
+                  "polyfill",
+                  "ponyfill",
+                  "promise",
+                  "promise-library",
+                  "promise-modules",
+                  "promise-patterns",
+                  "promise-queue",
+                  "promises",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             }
@@ -106,12 +166,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The ES6 promises spec, as per September 2013 TC39 meeting",
+                "homepage": null,
                 "id": 12286597,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-05-15T02:49:18Z",
+                "open_issues": 10,
                 "owner": "domenic",
                 "repo": "promises-unwrapping",
-                "stars": 1258
+                "stars": 1258,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             }
@@ -135,12 +200,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A polyfill for ES6-style Promises",
+                "homepage": null,
                 "id": 15046172,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-11-14T21:47:12Z",
+                "open_issues": 26,
                 "owner": "stefanpenner",
                 "repo": "es6-promise",
-                "stars": 7253
+                "stars": 7253,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -151,12 +221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic but performant promise implementation.",
+                "homepage": null,
                 "id": 12159312,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-08-21T14:09:23Z",
+                "open_issues": 5,
                 "owner": "calvinmetcalf",
                 "repo": "lie",
-                "stars": 742
+                "stars": 742,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -167,12 +242,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.",
+                "homepage": null,
                 "id": 19442108,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-10-27T02:11:57Z",
+                "open_issues": 0,
                 "owner": "getify",
                 "repo": "native-promise-only",
-                "stars": 715
+                "stars": 715,
+                "topics": [
+                  "javascript",
+                  "polyfill",
+                  "promises"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -183,12 +267,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Itty bitty little widdle twinkie pinkie ES2015 Promise implementation",
+                "homepage": null,
                 "id": 35380896,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-08-20T20:16:29Z",
+                "open_issues": 2,
                 "owner": "floatdrop",
                 "repo": "pinkie",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             }
@@ -206,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bird: :zap: Bluebird is a full featured promise library with unmatched performance.",
+                "homepage": "http://bluebirdjs.com",
                 "id": 12670444,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-11-07T20:26:46Z",
+                "open_issues": 131,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20490
+                "stars": 20490,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -222,12 +316,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A promise library for JavaScript",
+                "homepage": null,
                 "id": 887025,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-08T10:50:34Z",
+                "open_issues": 115,
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 15011
+                "stars": 15011,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -238,12 +337,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight library that provides tools for organizing asynchronous code",
+                "homepage": null,
                 "id": 6248967,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-27T00:21:03Z",
+                "open_issues": 17,
                 "owner": "tildeio",
                 "repo": "rsvp.js",
-                "stars": 3594
+                "stars": 3594,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -254,12 +358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A solid, fast Promises/A+ and when() implementation, plus other async goodies.",
+                "homepage": null,
                 "id": 1545869,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-10T19:35:16Z",
+                "open_issues": 67,
                 "owner": "cujojs",
                 "repo": "when",
-                "stars": 3422
+                "stars": 3422,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -270,12 +379,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bare bones Promises/A+ implementation",
+                "homepage": "https://www.promisejs.org",
                 "id": 7297261,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-21T03:35:42Z",
+                "open_issues": 24,
                 "owner": "then",
                 "repo": "promise",
-                "stars": 2587
+                "stars": 2587,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -286,12 +400,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land",
+                "homepage": "https://briancavalier.github.io/creed",
                 "id": 39137690,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-29T11:34:23Z",
+                "open_issues": 16,
                 "owner": "briancavalier",
                 "repo": "creed",
-                "stars": 277
+                "stars": 277,
+                "topics": [
+                  "async",
+                  "async-programming",
+                  "asynchronous",
+                  "coroutines",
+                  "fantasy-land",
+                  "promise"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             }
@@ -309,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NOTE: You probably want native promises now",
+                "homepage": null,
                 "id": 26247715,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-10-01T08:39:19Z",
+                "open_issues": 6,
                 "owner": "kevinbeaty",
                 "repo": "any-promise",
-                "stars": 180
+                "stars": 180,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -325,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Promise ponyfill with pinkie",
+                "homepage": null,
                 "id": 35542205,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-05-22T15:20:10Z",
+                "open_issues": 3,
                 "owner": "floatdrop",
                 "repo": "pinkie-promise",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             }
@@ -354,12 +490,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Promise queue with concurrency control",
+                "homepage": null,
                 "id": 72200120,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-22T20:25:14Z",
+                "open_issues": 7,
                 "owner": "sindresorhus",
                 "repo": "p-queue",
-                "stars": 4265
+                "stars": 4265,
+                "topics": [
+                  "async-functions",
+                  "async-queue",
+                  "node-module",
+                  "npm-package",
+                  "promise",
+                  "promise-queue",
+                  "queue",
+                  "queue-data-stucture"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -370,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run multiple promise-returning & async functions with limited concurrency",
+                "homepage": null,
                 "id": 71542716,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T20:18:50Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-limit",
-                "stars": 2920
+                "stars": 2920,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -386,12 +541,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map over promises concurrently",
+                "homepage": null,
                 "id": 71526722,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T23:42:36Z",
+                "open_issues": 12,
                 "owner": "sindresorhus",
                 "repo": "p-map",
-                "stars": 1510
+                "stars": 1510,
+                "topics": [
+                  "async",
+                  "async-await",
+                  "async-functions",
+                  "await",
+                  "concurrency",
+                  "iteration",
+                  "javascript",
+                  "mapper",
+                  "nodejs",
+                  "parallel",
+                  "promise",
+                  "promises"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -402,12 +575,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Promisify a callback-style function",
+                "homepage": null,
                 "id": 41585934,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-23T12:49:04Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pify",
-                "stars": 1503
+                "stars": 1503,
+                "topics": [
+                  "promise-utilities",
+                  "promises",
+                  "promisify"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -418,12 +600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Retry a promise-returning or async function",
+                "homepage": null,
                 "id": 71542126,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-26T16:08:20Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "p-retry",
-                "stars": 1028
+                "stars": 1028,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -434,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Delay a promise a specified amount of time",
+                "homepage": null,
                 "id": 46072466,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-31T16:34:15Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "delay",
-                "stars": 624
+                "stars": 624,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -450,12 +642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Throttle promise-returning & async functions",
+                "homepage": null,
                 "id": 71544230,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-08T05:21:43Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-throttle",
-                "stars": 518
+                "stars": 518,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -466,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Memoize promise-returning & async functions",
+                "homepage": null,
                 "id": 71544860,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-26T07:14:57Z",
+                "open_issues": 3,
                 "owner": "sindresorhus",
                 "repo": "p-memoize",
-                "stars": 449
+                "stars": 449,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -482,12 +684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run promise-returning & async functions concurrently with optional limited concurrency",
+                "homepage": null,
                 "id": 71527663,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-09-18T05:55:57Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-all",
-                "stars": 345
+                "stars": 345,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -498,12 +705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Timeout a promise after a specified amount of time",
+                "homepage": null,
                 "id": 71537368,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-10-07T01:46:07Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-timeout",
-                "stars": 305
+                "stars": 305,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -514,12 +726,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a lazy promise that defers execution until it's awaited or when .then() or .catch() is called",
+                "homepage": null,
                 "id": 73060555,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-28T06:52:02Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-lazy",
-                "stars": 286
+                "stars": 286,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -530,12 +747,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make unhandled promise rejections fail loudly instead of the default silent fail",
+                "homepage": null,
                 "id": 43604481,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-01-24T17:31:53Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "loud-rejection",
-                "stars": 281
+                "stars": 281,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -546,12 +768,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Debounce promise-returning & async functions",
+                "homepage": null,
                 "id": 71543534,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-11T08:28:18Z",
+                "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "p-debounce",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -562,12 +789,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like `Promise.all()` but for `Map` and `Object`",
+                "homepage": null,
                 "id": 71528422,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-21T06:45:21Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-props",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -578,12 +810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wait for a condition to be true",
+                "homepage": null,
                 "id": 71538128,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-21T04:41:21Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-wait-for",
-                "stars": 169
+                "stars": 169,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -594,12 +831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tap into a promise chain without affecting its value or state",
+                "homepage": null,
                 "id": 71538817,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-08T18:47:29Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-tap",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -610,12 +852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compose promise-returning & async functions into a reusable pipeline",
+                "homepage": null,
                 "id": 71531453,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-04-08T14:00:29Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-pipe",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -626,12 +873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make unhandled promise rejections fail hard right away instead of the default silent fail",
+                "homepage": null,
                 "id": 66733233,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-08T12:05:27Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "hard-rejection",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -642,12 +894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Settle promises concurrently and get their fulfillment value or rejection reason with optional limited concurrency",
+                "homepage": null,
                 "id": 71535711,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-11T03:44:34Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-settle",
-                "stars": 96
+                "stars": 96,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -658,12 +915,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a deferred promise",
+                "homepage": null,
                 "id": 71531782,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-08T11:20:20Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-defer",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -674,12 +936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Filter promises concurrently",
+                "homepage": null,
                 "id": 71528845,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-22T08:16:32Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-filter",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -690,12 +957,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Measure the time a promise takes to resolve",
+                "homepage": null,
                 "id": 63110210,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-05T20:54:35Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-time",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -706,12 +978,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reduce a list of values using promises into a promise for a value",
+                "homepage": null,
                 "id": 71529248,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-11T08:31:44Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-reduce",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -722,12 +999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conditional promise chains",
+                "homepage": null,
                 "id": 71539394,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-04-09T06:05:43Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-if",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -738,12 +1020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Start a promise chain",
+                "homepage": null,
                 "id": 71534796,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-16T02:55:43Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-try",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -754,12 +1041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "While a condition returns true, calls a function repeatedly, and then resolves the promise",
+                "homepage": null,
                 "id": 46364652,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-16T14:39:19Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-whilst",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -770,12 +1062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wait for any promise to be fulfilled",
+                "homepage": null,
                 "id": 71532789,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-09T03:54:12Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-any",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -786,12 +1083,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A better `Promise.race()`",
+                "homepage": null,
                 "id": 71536740,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-13T15:14:20Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-race",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -802,12 +1104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Iterate over promises serially",
+                "homepage": null,
                 "id": 71530968,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-08T15:21:29Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-each-series",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -818,12 +1125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Map over promises serially",
+                "homepage": null,
                 "id": 71529706,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-09T06:29:45Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-map-series",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -834,12 +1146,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "`Promise#finally()` ponyfill - Invoked when the promise is settled regardless of outcome",
+                "homepage": null,
                 "id": 71534025,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-09T05:45:17Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-finally",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -850,12 +1167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run promise-returning & async functions a specific number of times concurrently",
+                "homepage": null,
                 "id": 71643747,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-04T16:20:37Z",
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "p-times",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -866,12 +1188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conditional promise catch handler",
+                "homepage": null,
                 "id": 71648929,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-09T05:11:40Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-catch-if",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -882,12 +1209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wait for a specified number of promises to be fulfilled",
+                "homepage": null,
                 "id": 71532242,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-11T13:21:12Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-some",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -898,12 +1230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Log the value/error of a promise",
+                "homepage": null,
                 "id": 71540770,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-09T06:24:46Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-log",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -914,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Break out of a promise chain",
+                "homepage": null,
                 "id": 73466636,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-07T07:29:33Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-break",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             }
@@ -928,12 +1270,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Promise packages, patterns, chat, and tutorials",
+            "homepage": null,
             "id": 71446428,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-04-25T09:36:15Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5166
+            "stars": 5166,
+            "topics": [
+              "async",
+              "async-await",
+              "async-functions",
+              "awesome",
+              "awesome-list",
+              "concurrency",
+              "iteration",
+              "javascript",
+              "list",
+              "nodejs",
+              "polyfill",
+              "ponyfill",
+              "promise",
+              "promise-library",
+              "promise-modules",
+              "promise-patterns",
+              "promise-queue",
+              "promises",
+              "resources",
+              "unicorns"
+            ]
           },
           "title": "sindresorhus's many Promise utilities (see notes)",
           "first_seen": "2026-08-28T04:28:21.667Z"
@@ -947,12 +1315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)",
+                "homepage": null,
                 "id": 10518659,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-12-15T07:22:26Z",
+                "open_issues": 44,
                 "owner": "tj",
                 "repo": "co",
-                "stars": 11841
+                "stars": 11841,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -963,12 +1336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Beautiful concurrency for JavaScript",
+                "homepage": "http://taskjs.org",
                 "id": 982699,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2019-03-28T03:38:53Z",
+                "open_issues": 30,
                 "owner": "mozilla",
                 "repo": "task.js",
-                "stars": 1628
+                "stars": 1628,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -979,12 +1357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Test whether an object looks like a promises-a+ promise",
+                "homepage": null,
                 "id": 7296439,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-04-29T17:31:49Z",
+                "open_issues": 2,
                 "owner": "then",
                 "repo": "is-promise",
-                "stars": 282
+                "stars": 282,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -995,12 +1378,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "promise semaphore",
+                "homepage": null,
                 "id": 28431999,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-09-15T16:08:52Z",
+                "open_issues": 1,
                 "owner": "samccone",
                 "repo": "promise-semaphore",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -1011,12 +1399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert node.js Streams into Promises",
+                "homepage": null,
                 "id": 9633519,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-11-16T02:36:27Z",
+                "open_issues": 0,
                 "owner": "then",
                 "repo": "sprom",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -1027,12 +1420,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":loop: Calls a function repeatedly while a condition returns true and then resolves the promise",
+                "homepage": null,
                 "id": 46890427,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2018-08-25T21:47:54Z",
+                "open_issues": 1,
                 "owner": "busterc",
                 "repo": "promise-do-whilst",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "es6-promise",
+                  "flow-control",
+                  "promise",
+                  "promise-library",
+                  "promise-modules",
+                  "promises"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -1043,12 +1448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wraps a function and returns one that always returns a promise",
+                "homepage": null,
                 "id": 42762916,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-15T20:18:51Z",
+                "open_issues": 0,
                 "owner": "wbinnssmith",
                 "repo": "promise-method",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -1059,12 +1469,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Call a Node-style callback with the resolution value or rejection cause of a Promise without the common pitfalls.",
+                "homepage": null,
                 "id": 52988989,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T00:16:41Z",
+                "open_issues": 1,
                 "owner": "kevinoid",
                 "repo": "promise-nodeify",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "nodeify",
+                  "nodejs",
+                  "promise-nodeify"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             },
@@ -1075,12 +1494,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":loop: Calls a function repeatedly until a condition returns true and then resolves the promise",
+                "homepage": null,
                 "id": 46890368,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2018-08-25T21:46:41Z",
+                "open_issues": 1,
                 "owner": "busterc",
                 "repo": "promise-do-until",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "es6-promise",
+                  "flow-control",
+                  "promise",
+                  "promise-library",
+                  "promise-modules",
+                  "promises"
+                ]
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
             }
@@ -1094,15 +1525,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:37.442Z",
+    "last_updated": "2026-08-29T04:30:40.724Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of useful resources for JavaScript Promises",
+      "homepage": null,
       "id": 42789965,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-12-15T08:38:32Z",
+      "open_issues": 8,
       "owner": "wbinnssmith",
       "repo": "awesome-promises",
-      "stars": 1751
+      "stars": 1751,
+      "topics": []
     },
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
     "enhanced_repository": "enhansome/enhansome-promises",
