@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,149 | 🐛 105 | 📅 2026-08-21 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,437 | 🐛 105 | 📅 2026-08-21 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,149 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,763 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,763 | 🐛 2 | 📅 2026-02-15
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,757 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,757 | 🐛 2 | 📅 2026-02-15
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,614 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 737 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
