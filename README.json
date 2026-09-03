@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184785,
+                "stars": 184806,
                 "topics": [
                   "async",
                   "book",
@@ -529,7 +529,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-limit",
-                "stars": 2919,
+                "stars": 2920,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1324,7 +1324,7 @@
                 "open_issues": 44,
                 "owner": "tj",
                 "repo": "co",
-                "stars": 11839,
+                "stars": 11838,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:49:58.548Z",
+    "last_updated": "2026-09-03T22:48:16.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
