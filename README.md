@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,441 | 🐛 106 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,752 | 🐛 106 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,441 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,866 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,866 | 🐛 2 | 📅 2026-02-15
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,877 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,877 | 🐛 2 | 📅 2026-02-15
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,611 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 738 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
@@ -86,7 +86,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 
 * [p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,271 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22 - Promise queue with concurrency control
 * [p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,924 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-31 - Run multiple promise-returning & async functions with limited concurrency
-* [p-map](https://github.com/sindresorhus/p-map) ⭐ 1,511 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-27 - Map over promises concurrently
+* [p-map](https://github.com/sindresorhus/p-map) ⭐ 1,511 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-12 - Map over promises concurrently
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - Promisify ("denodify") a callback-style function.
 * [p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,033 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-01 - Retry a promise-returning or async function
 * [delay](https://github.com/sindresorhus/delay) ⭐ 623 | 🐛 0 | 🌐 JavaScript | 📅 2025-10-31 - Delay a promise a specified amount of time.
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
