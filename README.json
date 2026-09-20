@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184929,
+                "stars": 184933,
                 "topics": [
                   "async",
                   "book",
@@ -102,7 +102,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-11-07T20:26:46Z",
-                "open_issues": 130,
+                "open_issues": 134,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
                 "stars": 20487,
@@ -126,7 +126,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5172,
+                "stars": 5170,
                 "topics": [
                   "async",
                   "async-await",
@@ -301,7 +301,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2024-11-07T20:26:46Z",
-                "open_issues": 130,
+                "open_issues": 134,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
                 "stars": 20487,
@@ -385,7 +385,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2023-10-21T03:35:42Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "then",
                 "repo": "promise",
                 "stars": 2585,
@@ -529,7 +529,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-limit",
-                "stars": 2925,
+                "stars": 2926,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1279,7 +1279,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5172,
+            "stars": 5170,
             "topics": [
               "async",
               "async-await",
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:29:14.350Z",
+    "last_updated": "2026-09-20T22:41:19.202Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
@@ -1537,7 +1537,7 @@
       "open_issues": 8,
       "owner": "wbinnssmith",
       "repo": "awesome-promises",
-      "stars": 1756,
+      "stars": 1757,
       "topics": []
     },
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
