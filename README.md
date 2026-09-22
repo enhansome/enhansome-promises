@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,627 | 🐛 106 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,016 | 🐛 106 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,627 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,936 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,936 | 🐛 2 | 📅 2026-02-15
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,947 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,947 | 🐛 2 | 📅 2026-02-15
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,611 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 738 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
@@ -59,7 +59,7 @@ These implement no more or less than the es6 spec. They make great polyfills and
 * [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,250 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - Opt-in polyfill. A strict-spec subset of rsvp.js.
 * [lie](https://github.com/calvinmetcalf/lie) ⭐ 741 | 🐛 5 | 🌐 JavaScript | 📅 2020-08-21 - Small, browserifyable with an opt-in polyfill.
 * [native-promise-only](https://github.com/getify/native-promise-only) ⚠️ Archived - Polyfill. Browser and node-compatible.
-* [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,695 | 🐛 386 | 🌐 JavaScript | 📅 2026-09-21. *Extremely* small implementation.
+* [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,696 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21. *Extremely* small implementation.
 
 ### Implementations with extras
 
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
