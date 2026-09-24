@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,438 | 🐛 106 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,958 | 🐛 107 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,8 +21,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,438 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,944 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,944 | 🐛 2 | 📅 2026-02-15
-* [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,611 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,952 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,952 | 🐛 2 | 📅 2026-02-15
+* [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,610 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 738 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
 * [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) - Basics of JavaScript's native promise implementation.
@@ -34,7 +34,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,438 |
 ### Deep Dive
 
 * [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) ⭐ 20,486 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Common misuses and how to avoid them.
-* [Promise Fun](https://github.com/sindresorhus/promise-fun) ⭐ 5,169 | 🐛 0 | 📅 2024-04-25 - @sindresorhus's notes, patterns, and solutions to common Promise problems
+* [Promise Fun](https://github.com/sindresorhus/promise-fun) ⭐ 5,171 | 🐛 0 | 📅 2024-04-25 - @sindresorhus's notes, patterns, and solutions to common Promise problems
 * [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (prior to 3.0) isn't enough.
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
 * [Promise anti-patterns (2)](http://taoofcode.net/promise-anti-patterns/) - Another set of promises anti-patterns
@@ -56,10 +56,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,438 |
 
 These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
-* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,248 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - Opt-in polyfill. A strict-spec subset of rsvp.js.
+* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,249 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - Opt-in polyfill. A strict-spec subset of rsvp.js.
 * [lie](https://github.com/calvinmetcalf/lie) ⭐ 741 | 🐛 5 | 🌐 JavaScript | 📅 2020-08-21 - Small, browserifyable with an opt-in polyfill.
 * [native-promise-only](https://github.com/getify/native-promise-only) ⚠️ Archived - Polyfill. Browser and node-compatible.
-* [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,696 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21. *Extremely* small implementation.
+* [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,695 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21. *Extremely* small implementation.
 
 ### Implementations with extras
 
@@ -67,7 +67,7 @@ All of these provide more features than the language yet remain compatible. Node
 
 * [bluebird](https://github.com/petkaantonov/bluebird) ⭐ 20,486 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
 * [Q](https://github.com/kriskowal/q) ⚠️ Archived - One of the original implementations. Long stack traces and other goodies.
-* [rsvp.js](https://github.com/tildeio/rsvp.js/) ⭐ 3,592 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-27 - Lightweight with a few extras. Compatible down to IE6!
+* [rsvp.js](https://github.com/tildeio/rsvp.js/) ⭐ 3,591 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-27 - Lightweight with a few extras. Compatible down to IE6!
 * [when.js](https://github.com/cujojs/when) ⭐ 3,420 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-10 - Packed with control flow, functional, and utility methods.
 * [then/promise](https://github.com/then/promise) ⭐ 2,585 | 🐛 25 | 🌐 JavaScript | 📅 2023-10-21 - Small with `nodeify`, `denodify` and `done()` additions.
 * [creed](https://github.com/briancavalier/creed) ⭐ 277 | 🐛 16 | 🌐 JavaScript | 📅 2018-05-29 - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec.
@@ -82,7 +82,7 @@ All of these provide more features than the language yet remain compatible. Node
 
 Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
 
-### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun) ⭐ 5,169 | 🐛 0 | 📅 2024-04-25)
+### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun) ⭐ 5,171 | 🐛 0 | 📅 2024-04-25)
 
 * [p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,277 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-22 - Promise queue with concurrency control
 * [p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,927 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Run multiple promise-returning & async functions with limited concurrency
@@ -123,7 +123,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 
 ### Others
 
-* [co](https://github.com/tj/co) ⭐ 11,831 | 🐛 44 | 🌐 JavaScript | 📅 2020-12-15 - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
+* [co](https://github.com/tj/co) ⭐ 11,832 | 🐛 44 | 🌐 JavaScript | 📅 2020-12-15 - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 * [task.js](https://github.com/mozilla/task.js) ⭐ 1,628 | 🐛 30 | 🌐 JavaScript | 📅 2019-03-28 - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
 * [is-promise](https://github.com/then/is-promise) ⭐ 281 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Determine if something looks like a Promise.
 * [promise-semaphore](https://github.com/samccone/promise-semaphore) ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2016-09-15 - Push a set of work to be done in a configurable serial fashion
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
