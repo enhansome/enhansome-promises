@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184960,
+                "stars": 184974,
                 "topics": [
                   "async",
                   "book",
@@ -105,7 +105,7 @@
                 "open_issues": 130,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20486,
+                "stars": 20485,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -175,7 +175,7 @@
                 "open_issues": 10,
                 "owner": "domenic",
                 "repo": "promises-unwrapping",
-                "stars": 1257,
+                "stars": 1258,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -304,7 +304,7 @@
                 "open_issues": 130,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20486,
+                "stars": 20485,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -550,7 +550,7 @@
                 "open_issues": 12,
                 "owner": "sindresorhus",
                 "repo": "p-map",
-                "stars": 1511,
+                "stars": 1512,
                 "topics": [
                   "async",
                   "async-await",
@@ -584,7 +584,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pify",
-                "stars": 1501,
+                "stars": 1502,
                 "topics": [
                   "promise-utilities",
                   "promises",
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:31:06.479Z",
+    "last_updated": "2026-09-26T23:08:54.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
