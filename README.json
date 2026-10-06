@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 185013,
+                "stars": 185012,
                 "topics": [
                   "async",
                   "book",
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:26:30.971Z",
+    "last_updated": "2026-10-06T10:22:13.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
