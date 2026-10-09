@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 185002,
+                "stars": 184804,
                 "topics": [
                   "async",
                   "book",
@@ -126,7 +126,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5173,
+                "stars": 5174,
                 "topics": [
                   "async",
                   "async-await",
@@ -325,7 +325,7 @@
                 "open_issues": 115,
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 14998,
+                "stars": 14996,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -346,7 +346,7 @@
                 "open_issues": 17,
                 "owner": "tildeio",
                 "repo": "rsvp.js",
-                "stars": 3591,
+                "stars": 3590,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -496,10 +496,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-07-22T20:25:14Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "sindresorhus",
                 "repo": "p-queue",
-                "stars": 4281,
+                "stars": 4282,
                 "topics": [
                   "async-functions",
                   "async-queue",
@@ -529,7 +529,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-limit",
-                "stars": 2929,
+                "stars": 2930,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -546,8 +546,8 @@
                 "id": 71526722,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T05:52:44Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-08T18:31:40Z",
+                "open_issues": 9,
                 "owner": "sindresorhus",
                 "repo": "p-map",
                 "stars": 1514,
@@ -609,7 +609,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "p-retry",
-                "stars": 1035,
+                "stars": 1036,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -630,7 +630,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "delay",
-                "stars": 623,
+                "stars": 624,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -774,7 +774,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-12T16:03:07Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "sindresorhus",
                 "repo": "p-debounce",
                 "stars": 238,
@@ -1279,7 +1279,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5173,
+            "stars": 5174,
             "topics": [
               "async",
               "async-await",
@@ -1345,7 +1345,7 @@
                 "open_issues": 30,
                 "owner": "mozilla",
                 "repo": "task.js",
-                "stars": 1628,
+                "stars": 1627,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:23:51.844Z",
+    "last_updated": "2026-10-09T00:38:38.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
@@ -1537,7 +1537,7 @@
       "open_issues": 8,
       "owner": "wbinnssmith",
       "repo": "awesome-promises",
-      "stars": 1760,
+      "stars": 1759,
       "topics": []
     },
     "original_repository_sha": "d86b8c7612dde9b58ea80e07bd5d28c04e840338",
