@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,999 | 🐛 105 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,490 | 🐛 105 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,9 +21,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,999 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,821 | 🐛 2 | 📅 2026-02-15
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,819 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,819 | 🐛 2 | 📅 2026-02-15
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,610 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
-* [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 736 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
+* [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 737 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
 * [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) - Basics of JavaScript's native promise implementation.
 * [JavaScript with Promises](http://shop.oreilly.com/product/0636920032151.do) - from O'Reilly. Short and to-the-point. Uses native and bluebird.
@@ -84,21 +84,21 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 
 ### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun) ⭐ 5,175 | 🐛 0 | 📅 2024-04-25)
 
-* [p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,283 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-12 - Promise queue with concurrency control
-* [p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,931 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Run multiple promise-returning & async functions with limited concurrency
-* [p-map](https://github.com/sindresorhus/p-map) ⭐ 1,514 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 - Map over promises concurrently
+* [p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,287 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-15 - Promise queue with concurrency control
+* [p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,932 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Run multiple promise-returning & async functions with limited concurrency
+* [p-map](https://github.com/sindresorhus/p-map) ⭐ 1,516 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 - Map over promises concurrently
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify ("denodify") a callback-style function.
 * [p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,037 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Retry a promise-returning or async function
-* [delay](https://github.com/sindresorhus/delay) ⭐ 624 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Delay a promise a specified amount of time.
+* [delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Delay a promise a specified amount of time.
 * [p-throttle](https://github.com/sindresorhus/p-throttle) ⭐ 522 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Throttle promise-returning & async functions
-* [p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 452 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-18 - Memoize promise-returning & async functions
+* [p-memoize](https://github.com/sindresorhus/p-memoize) ⭐ 452 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-15 - Memoize promise-returning & async functions
 * [p-all](https://github.com/sindresorhus/p-all) ⭐ 346 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Run promise-returning & async functions concurrently with optional limited concurrency
-* [p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 308 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Timeout a promise after a specified amount of time
+* [p-timeout](https://github.com/sindresorhus/p-timeout) ⭐ 308 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Timeout a promise after a specified amount of time
 * [p-lazy](https://github.com/sindresorhus/p-lazy) ⭐ 286 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Create a lazy promise that defers execution until `.then()` or `.catch()` is called
 * [loud-rejection](https://github.com/sindresorhus/loud-rejection) ⭐ 280 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Make unhandled promise rejections fail loudly instead of the default silent fail.
-* [p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 238 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-12 - Debounce promise-returning & async functions
+* [p-debounce](https://github.com/sindresorhus/p-debounce) ⭐ 238 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-15 - Debounce promise-returning & async functions
 * [p-props](https://github.com/sindresorhus/p-props) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-21 - Like `Promise.all()` but for `Map` and `Object`
-* [p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Wait for a condition to be true
+* [p-wait-for](https://github.com/sindresorhus/p-wait-for) ⭐ 169 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Wait for a condition to be true
 * [p-tap](https://github.com/sindresorhus/p-tap) ⭐ 134 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-08 - Tap into a promise chain without affecting its value or state
 * [p-pipe](https://github.com/sindresorhus/p-pipe) ⭐ 130 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Compose promise-returning & async functions into a reusable pipeline
 * [hard-rejection](https://github.com/sindresorhus/hard-rejection) ⭐ 107 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Make unhandled promise rejections fail hard right away instead of the default silent fail
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
