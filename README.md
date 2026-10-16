@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,490 | 🐛 105 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,986 | 🐛 105 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,490 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,819 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,819 | 🐛 2 | 📅 2026-02-15
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,828 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,828 | 🐛 2 | 📅 2026-02-15
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,610 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 737 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
@@ -67,7 +67,7 @@ All of these provide more features than the language yet remain compatible. Node
 
 * [bluebird](https://github.com/petkaantonov/bluebird) ⭐ 20,466 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
 * [Q](https://github.com/kriskowal/q) ⚠️ Archived - One of the original implementations. Long stack traces and other goodies.
-* [rsvp.js](https://github.com/tildeio/rsvp.js/) ⭐ 3,590 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-27 - Lightweight with a few extras. Compatible down to IE6!
+* [rsvp.js](https://github.com/tildeio/rsvp.js/) ⭐ 3,589 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-27 - Lightweight with a few extras. Compatible down to IE6!
 * [when.js](https://github.com/cujojs/when) ⭐ 3,420 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-10 - Packed with control flow, functional, and utility methods.
 * [then/promise](https://github.com/then/promise) ⭐ 2,586 | 🐛 25 | 🌐 JavaScript | 📅 2023-10-21 - Small with `nodeify`, `denodify` and `done()` additions.
 * [creed](https://github.com/briancavalier/creed) ⭐ 277 | 🐛 16 | 🌐 JavaScript | 📅 2018-05-29 - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec.
@@ -84,9 +84,9 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 
 ### sindresorhus's many Promise utilities ([see notes](https://github.com/sindresorhus/promise-fun) ⭐ 5,175 | 🐛 0 | 📅 2024-04-25)
 
-* [p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,287 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-15 - Promise queue with concurrency control
-* [p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,932 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Run multiple promise-returning & async functions with limited concurrency
-* [p-map](https://github.com/sindresorhus/p-map) ⭐ 1,516 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 - Map over promises concurrently
+* [p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,291 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-16 - Promise queue with concurrency control
+* [p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,933 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Run multiple promise-returning & async functions with limited concurrency
+* [p-map](https://github.com/sindresorhus/p-map) ⭐ 1,517 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 - Map over promises concurrently
 * [pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify ("denodify") a callback-style function.
 * [p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,037 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Retry a promise-returning or async function
 * [delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Delay a promise a specified amount of time.
@@ -123,7 +123,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 
 ### Others
 
-* [co](https://github.com/tj/co) ⭐ 11,826 | 🐛 44 | 🌐 JavaScript | 📅 2020-12-15 - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
+* [co](https://github.com/tj/co) ⭐ 11,827 | 🐛 44 | 🌐 JavaScript | 📅 2020-12-15 - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 * [task.js](https://github.com/mozilla/task.js) ⭐ 1,626 | 🐛 30 | 🌐 JavaScript | 📅 2019-03-28 - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
 * [is-promise](https://github.com/then/is-promise) ⭐ 283 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Determine if something looks like a Promise.
 * [promise-semaphore](https://github.com/samccone/promise-semaphore) ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2016-09-15 - Push a set of work to be done in a configurable serial fashion
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
