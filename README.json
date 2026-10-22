@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184834,
+                "stars": 184833,
                 "topics": [
                   "async",
                   "book",
@@ -105,7 +105,7 @@
                 "open_issues": 130,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20467,
+                "stars": 20466,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -304,7 +304,7 @@
                 "open_issues": 130,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20467,
+                "stars": 20466,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -325,7 +325,7 @@
                 "open_issues": 115,
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 14995,
+                "stars": 14991,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -367,7 +367,7 @@
                 "open_issues": 67,
                 "owner": "cujojs",
                 "repo": "when",
-                "stars": 3419,
+                "stars": 3417,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -584,7 +584,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "pify",
-                "stars": 1502,
+                "stars": 1501,
                 "topics": [
                   "promise-utilities",
                   "promises",
@@ -1474,7 +1474,7 @@
                 "id": 52988989,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T23:16:25Z",
+                "last_commit": "2026-10-22T02:56:42Z",
                 "open_issues": 0,
                 "owner": "kevinoid",
                 "repo": "promise-nodeify",
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:36:31.128Z",
+    "last_updated": "2026-10-22T23:35:20.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",

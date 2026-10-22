@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,372 | 🐛 105 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,162 | 🐛 105 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,372 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,834 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,834 | 🐛 2 | 📅 2026-02-15
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,833 | 🐛 2 | 📅 2026-02-15 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,833 | 🐛 2 | 📅 2026-02-15
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,610 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 737 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
@@ -33,7 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,372 |
 
 ### Deep Dive
 
-* [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) ⭐ 20,467 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Common misuses and how to avoid them.
+* [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) ⭐ 20,466 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Common misuses and how to avoid them.
 * [Promise Fun](https://github.com/sindresorhus/promise-fun) ⭐ 5,176 | 🐛 0 | 📅 2024-04-25 - @sindresorhus's notes, patterns, and solutions to common Promise problems
 * [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (prior to 3.0) isn't enough.
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
@@ -59,16 +59,16 @@ These implement no more or less than the es6 spec. They make great polyfills and
 * [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,247 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - Opt-in polyfill. A strict-spec subset of rsvp.js.
 * [lie](https://github.com/calvinmetcalf/lie) ⭐ 742 | 🐛 6 | 🌐 JavaScript | 📅 2020-08-21 - Small, browserifyable with an opt-in polyfill.
 * [native-promise-only](https://github.com/getify/native-promise-only) ⚠️ Archived - Polyfill. Browser and node-compatible.
-* [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,694 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21. *Extremely* small implementation.
+* [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,693 | 🐛 387 | 🌐 JavaScript | 📅 2026-09-21. *Extremely* small implementation.
 
 ### Implementations with extras
 
 All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird](https://github.com/petkaantonov/bluebird) ⭐ 20,467 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
+* [bluebird](https://github.com/petkaantonov/bluebird) ⭐ 20,466 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
 * [Q](https://github.com/kriskowal/q) ⚠️ Archived - One of the original implementations. Long stack traces and other goodies.
 * [rsvp.js](https://github.com/tildeio/rsvp.js/) ⭐ 3,589 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-27 - Lightweight with a few extras. Compatible down to IE6!
-* [when.js](https://github.com/cujojs/when) ⭐ 3,419 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-10 - Packed with control flow, functional, and utility methods.
+* [when.js](https://github.com/cujojs/when) ⭐ 3,417 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-10 - Packed with control flow, functional, and utility methods.
 * [then/promise](https://github.com/then/promise) ⭐ 2,586 | 🐛 25 | 🌐 JavaScript | 📅 2023-10-21 - Small with `nodeify`, `denodify` and `done()` additions.
 * [creed](https://github.com/briancavalier/creed) ⭐ 277 | 🐛 16 | 🌐 JavaScript | 📅 2018-05-29 - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec.
 
@@ -87,7 +87,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-queue](https://github.com/sindresorhus/p-queue) ⭐ 4,298 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-16 - Promise queue with concurrency control
 * [p-limit](https://github.com/sindresorhus/p-limit) ⭐ 2,934 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Run multiple promise-returning & async functions with limited concurrency
 * [p-map](https://github.com/sindresorhus/p-map) ⭐ 1,517 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-11 - Map over promises concurrently
-* [pify](https://github.com/sindresorhus/pify) ⭐ 1,502 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify ("denodify") a callback-style function.
+* [pify](https://github.com/sindresorhus/pify) ⭐ 1,501 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Promisify ("denodify") a callback-style function.
 * [p-retry](https://github.com/sindresorhus/p-retry) ⭐ 1,037 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Retry a promise-returning or async function
 * [delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Delay a promise a specified amount of time.
 * [p-throttle](https://github.com/sindresorhus/p-throttle) ⭐ 523 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Throttle promise-returning & async functions
@@ -130,7 +130,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [sprom](https://github.com/then/sprom) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-16 - Resolve when a stream ends. Optional buffering (be careful with this!)
 * [promise-do-whilst](https://github.com/busterc/promise-do-whilst) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-08-25 - Calls a function repeatedly while a condition returns true and then resolves the promise.
 * [promise-method](https://github.com/wbinnssmith/promise-method) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-15 - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
-* [promise-nodeify](https://github.com/kevinoid/promise-nodeify) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-19 - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
+* [promise-nodeify](https://github.com/kevinoid/promise-nodeify) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-22 - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
 * [promise-do-until](https://github.com/busterc/promise-do-until) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2018-08-25 - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
