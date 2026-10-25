@@ -105,7 +105,7 @@
                 "open_issues": 130,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20466,
+                "stars": 20468,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -126,7 +126,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5179,
+                "stars": 5180,
                 "topics": [
                   "async",
                   "async-await",
@@ -209,7 +209,7 @@
                 "open_issues": 26,
                 "owner": "stefanpenner",
                 "repo": "es6-promise",
-                "stars": 7247,
+                "stars": 7248,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -304,7 +304,7 @@
                 "open_issues": 130,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20466,
+                "stars": 20468,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -325,7 +325,7 @@
                 "open_issues": 115,
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 14989,
+                "stars": 14990,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1279,7 +1279,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5179,
+            "stars": 5180,
             "topics": [
               "async",
               "async-await",
@@ -1324,7 +1324,7 @@
                 "open_issues": 44,
                 "owner": "tj",
                 "repo": "co",
-                "stars": 11828,
+                "stars": 11829,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T22:42:59.472Z",
+    "last_updated": "2026-10-25T22:47:57.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
