@@ -17,11 +17,11 @@
                 "id": 14440270,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-02-15T04:36:44Z",
+                "last_commit": "2026-10-31T16:14:40Z",
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184834,
+                "stars": 184840,
                 "topics": [
                   "async",
                   "book",
@@ -105,7 +105,7 @@
                 "open_issues": 130,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20465,
+                "stars": 20466,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -304,7 +304,7 @@
                 "open_issues": 130,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20465,
+                "stars": 20466,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -325,7 +325,7 @@
                 "open_issues": 115,
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 14988,
+                "stars": 14987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -367,7 +367,7 @@
                 "open_issues": 67,
                 "owner": "cujojs",
                 "repo": "when",
-                "stars": 3417,
+                "stars": 3418,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -499,7 +499,7 @@
                 "open_issues": 5,
                 "owner": "sindresorhus",
                 "repo": "p-queue",
-                "stars": 4304,
+                "stars": 4305,
                 "topics": [
                   "async-functions",
                   "async-queue",
@@ -529,7 +529,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-limit",
-                "stars": 2936,
+                "stars": 2937,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -609,7 +609,7 @@
                 "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "p-retry",
-                "stars": 1039,
+                "stars": 1041,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -672,7 +672,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "p-memoize",
-                "stars": 453,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -714,7 +714,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-timeout",
-                "stars": 308,
+                "stars": 309,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -777,7 +777,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "p-debounce",
-                "stars": 239,
+                "stars": 240,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:01:41.548Z",
+    "last_updated": "2026-10-31T23:43:14.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
