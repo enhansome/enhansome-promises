@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,986 | 🐛 103 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,769 | 🐛 103 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -33,7 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,986 |
 
 ### Deep Dive
 
-* [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) ⭐ 20,464 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Common misuses and how to avoid them.
+* [Promise anti-patterns](https://github.com/petkaantonov/bluebird/wiki/Promise-anti-patterns) ⭐ 20,463 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Common misuses and how to avoid them.
 * [Promise Fun](https://github.com/sindresorhus/promise-fun) ⭐ 5,184 | 🐛 0 | 📅 2024-04-25 - @sindresorhus's notes, patterns, and solutions to common Promise problems
 * [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) - Promises are much more than callback aggregation, and that jQuery's implementation (prior to 3.0) isn't enough.
 * [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) - "Many of us are using promises without really understanding them."
@@ -65,7 +65,7 @@ These implement no more or less than the es6 spec. They make great polyfills and
 
 All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird](https://github.com/petkaantonov/bluebird) ⭐ 20,464 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
+* [bluebird](https://github.com/petkaantonov/bluebird) ⭐ 20,463 | 🐛 130 | 🌐 JavaScript | 📅 2024-11-07 - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
 * [Q](https://github.com/kriskowal/q) ⚠️ Archived - One of the original implementations. Long stack traces and other goodies.
 * [rsvp.js](https://github.com/tildeio/rsvp.js/) ⭐ 3,589 | 🐛 17 | 🌐 JavaScript | 📅 2023-10-27 - Lightweight with a few extras. Compatible down to IE6!
 * [when.js](https://github.com/cujojs/when) ⭐ 3,417 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-10 - Packed with control flow, functional, and utility methods.
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
