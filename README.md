@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,863 | 🐛 103 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,323 | 🐛 103 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,863 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,841 | 🐛 2 | 📅 2026-10-31
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,846 | 🐛 2 | 📅 2026-10-31 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,846 | 🐛 2 | 📅 2026-10-31
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,608 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 737 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
@@ -130,7 +130,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [sprom](https://github.com/then/sprom) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-16 - Resolve when a stream ends. Optional buffering (be careful with this!)
 * [promise-do-whilst](https://github.com/busterc/promise-do-whilst) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-08-25 - Calls a function repeatedly while a condition returns true and then resolves the promise.
 * [promise-method](https://github.com/wbinnssmith/promise-method) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-15 - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
-* [promise-nodeify](https://github.com/kevinoid/promise-nodeify) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
+* [promise-nodeify](https://github.com/kevinoid/promise-nodeify) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-09 - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
 * [promise-do-until](https://github.com/busterc/promise-do-until) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2018-08-25 - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
