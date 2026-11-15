@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184848,
+                "stars": 184852,
                 "topics": [
                   "async",
                   "book",
@@ -105,7 +105,7 @@
                 "open_issues": 131,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20460,
+                "stars": 20459,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -126,7 +126,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5184,
+                "stars": 5185,
                 "topics": [
                   "async",
                   "async-await",
@@ -304,7 +304,7 @@
                 "open_issues": 131,
                 "owner": "petkaantonov",
                 "repo": "bluebird",
-                "stars": 20460,
+                "stars": 20459,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -388,7 +388,7 @@
                 "open_issues": 24,
                 "owner": "then",
                 "repo": "promise",
-                "stars": 2586,
+                "stars": 2585,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -529,7 +529,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-limit",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1279,7 +1279,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5184,
+            "stars": 5185,
             "topics": [
               "async",
               "async-await",
@@ -1324,7 +1324,7 @@
                 "open_issues": 44,
                 "owner": "tj",
                 "repo": "co",
-                "stars": 11824,
+                "stars": 11823,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:01:27.015Z",
+    "last_updated": "2026-11-15T00:14:58.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
