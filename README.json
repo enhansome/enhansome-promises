@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "getify",
                 "repo": "You-Dont-Know-JS",
-                "stars": 184853,
+                "stars": 184857,
                 "topics": [
                   "async",
                   "book",
@@ -126,7 +126,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "promise-fun",
-                "stars": 5183,
+                "stars": 5184,
                 "topics": [
                   "async",
                   "async-await",
@@ -325,7 +325,7 @@
                 "open_issues": 115,
                 "owner": "kriskowal",
                 "repo": "q",
-                "stars": 14983,
+                "stars": 14981,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -499,7 +499,7 @@
                 "open_issues": 6,
                 "owner": "sindresorhus",
                 "repo": "p-queue",
-                "stars": 4305,
+                "stars": 4304,
                 "topics": [
                   "async-functions",
                   "async-queue",
@@ -529,7 +529,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-limit",
-                "stars": 2943,
+                "stars": 2944,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -672,7 +672,7 @@
                 "open_issues": 2,
                 "owner": "sindresorhus",
                 "repo": "p-memoize",
-                "stars": 454,
+                "stars": 453,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -861,7 +861,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-pipe",
-                "stars": 130,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1239,7 +1239,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "p-log",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1279,7 +1279,7 @@
             "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "promise-fun",
-            "stars": 5183,
+            "stars": 5184,
             "topics": [
               "async",
               "async-await",
@@ -1324,7 +1324,7 @@
                 "open_issues": 44,
                 "owner": "tj",
                 "repo": "co",
-                "stars": 11823,
+                "stars": 11822,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:21.667Z"
@@ -1525,7 +1525,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:08:38.740Z",
+    "last_updated": "2026-11-18T02:35:24.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of useful resources for JavaScript Promises",
