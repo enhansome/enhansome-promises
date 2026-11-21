@@ -6,7 +6,7 @@
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,552 | 🐛 103 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,053 | 🐛 103 | 📅 2026-09-02 list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -21,7 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,552 |
 
 ### For beginners
 
-* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,862 | 🐛 2 | 📅 2026-10-31 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,862 | 🐛 2 | 📅 2026-10-31
+* [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) ⭐ 184,860 | 🐛 2 | 📅 2026-10-31 - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) ⭐ 184,860 | 🐛 2 | 📅 2026-10-31
 * [Promise Cookbook](https://github.com/mattdesl/promise-cookbook) ⭐ 1,608 | 🐛 1 | 📅 2017-06-14 - The why, what, and how. "A brief introduction \[...] primarily aimed at frontend developers".
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) ⭐ 736 | 🐛 45 | 🌐 JavaScript | 📅 2021-04-21 - An interactive [nodeschool](https://nodeschool.io/) workshop
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
@@ -56,7 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,552 |
 
 These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
-* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,245 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - Opt-in polyfill. A strict-spec subset of rsvp.js.
+* [es6-promise](https://github.com/stefanpenner/es6-promise) ⭐ 7,244 | 🐛 26 | 🌐 JavaScript | 📅 2022-11-14 - Opt-in polyfill. A strict-spec subset of rsvp.js.
 * [lie](https://github.com/calvinmetcalf/lie) ⭐ 742 | 🐛 6 | 🌐 JavaScript | 📅 2020-08-21 - Small, browserifyable with an opt-in polyfill.
 * [native-promise-only](https://github.com/getify/native-promise-only) ⚠️ Archived - Polyfill. Browser and node-compatible.
 * [pinkie](https://github.com/floatdrop/pinkie) ⚠️ Archived - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify) ⭐ 14,689 | 🐛 386 | 🌐 JavaScript | 📅 2026-10-24. *Extremely* small implementation.
@@ -112,7 +112,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-whilst](https://github.com/sindresorhus/p-whilst) ⭐ 57 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-16 - Calls a function repeatedly while a condition returns true and then resolves the promise
 * [p-any](https://github.com/sindresorhus/p-any) ⭐ 56 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Wait for any promise to be fulfilled
 * [p-race](https://github.com/sindresorhus/p-race) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-13 - A better `Promise.race()`
-* [p-each-series](https://github.com/sindresorhus/p-each-series) ⭐ 52 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-18 - Iterate over promises serially
+* [p-each-series](https://github.com/sindresorhus/p-each-series) ⭐ 52 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Iterate over promises serially
 * [p-map-series](https://github.com/sindresorhus/p-map-series) ⭐ 51 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - Map over promises serially
 * [p-finally](https://github.com/sindresorhus/p-finally) ⚠️ Archived - `Promise#finally()` ponyfill - Invoked when the promise is settled regardless of outcome
 * [p-times](https://github.com/sindresorhus/p-times) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2021-10-04 - Run promise-returning & async functions a specific number of times concurrently
@@ -125,7 +125,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 
 * [co](https://github.com/tj/co) ⭐ 11,823 | 🐛 44 | 🌐 JavaScript | 📅 2020-12-15 - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 * [task.js](https://github.com/mozilla/task.js) ⭐ 1,626 | 🐛 30 | 🌐 JavaScript | 📅 2019-03-28 - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
-* [is-promise](https://github.com/then/is-promise) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Determine if something looks like a Promise.
+* [is-promise](https://github.com/then/is-promise) ⭐ 283 | 🐛 2 | 🌐 JavaScript | 📅 2023-04-29 - Determine if something looks like a Promise.
 * [promise-semaphore](https://github.com/samccone/promise-semaphore) ⭐ 28 | 🐛 1 | 🌐 JavaScript | 📅 2016-09-15 - Push a set of work to be done in a configurable serial fashion
 * [sprom](https://github.com/then/sprom) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2017-11-16 - Resolve when a stream ends. Optional buffering (be careful with this!)
 * [promise-do-whilst](https://github.com/busterc/promise-do-whilst) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2018-08-25 - Calls a function repeatedly while a condition returns true and then resolves the promise.
@@ -140,4 +140,4 @@ Licensed under the [Creative Commons CC0 License](https://creativecommons.org/pu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
